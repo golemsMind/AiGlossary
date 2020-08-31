@@ -10,14 +10,20 @@
  c++
  Java
  JS
+ Lisp
 
 #Models
+ Bert
+ Albert
+
+
+
+#Methods
+ ML
  NN (Method)
  CNN
  RNN
  GAN
-
-#Methods
  LTST (Model?)
  Dropout
  NLP
@@ -35,12 +41,17 @@
  
 
 #Persons
+ Marvin Minsky
+ 
 
 #Organisations
  OpenAi
 
 #Conferences
  ECAI
+ 
+#Other
+ 
  
 
 
