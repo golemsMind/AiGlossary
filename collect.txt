@@ -1,0 +1,49 @@
+#Libraries
+ Tensorflow
+ PyTorch
+ 
+
+#Languages
+ Python
+ Julia
+ R
+ c++
+ Java
+ JS
+
+#Models
+ NN (Method)
+ CNN
+ RNN
+ GAN
+
+#Methods
+ LTST (Model?)
+ Dropout
+ NLP
+ DeepLearning
+ Reinforcement Learning
+ Self
+ 
+
+#Sets
+ MNIST
+ ImageNet
+ CIFAR-10
+ Fashion-MNIST
+ WordNet
+ 
+
+#Persons
+
+#Organisations
+ OpenAi
+
+#Conferences
+ ECAI
+ 
+
+
+
+
+
