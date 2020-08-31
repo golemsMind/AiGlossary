@@ -1,7 +1,9 @@
 #Libraries
  Tensorflow
  PyTorch
- 
+ Pandas
+ SkLearn
+  
 
 #Languages
  Python
@@ -51,6 +53,8 @@
  ECAI
  
 #Other
+ Regression
+ Classification
  
  
 
